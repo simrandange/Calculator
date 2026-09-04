@@ -10,10 +10,10 @@ calculator project:
 -test_calculator.py   (unit tests)
 README.md
 
-Requirements
+Requirements-
 Python 3.7+ 
 
-Usage
+Usage-
 Run the calculator from the project directory:
      bash
      python main.py
@@ -35,12 +35,12 @@ Enter first number (or 'q' to quit): q
 Goodbye!
 
 
-Running Tests
+Running Tests-
    bash
    python -m unittest test_calculator.py
 
 
-Using as a Module
+Using as a Module-
 You can also import the calculator functions directly in your own scripts:
    python
    from calculator import add, subtract, multiply, divide, calculate
